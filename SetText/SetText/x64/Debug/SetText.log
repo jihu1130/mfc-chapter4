@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  SetText.cpp
+  SetTextDlg.cpp
+C:\Users\7_1\Desktop\수강생 701\정지후\c++(MFC)\챕터4\SetText\SetText\SetTextDlg.cpp(111,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (소스 파일 '/SetTextDlg.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  SetText.vcxproj -> C:\Users\7_1\Desktop\수강생 701\정지후\c++(MFC)\챕터4\SetText\x64\Debug\SetText.exe
